@@ -14,8 +14,8 @@ $dev_constants = [
     'MAIL_HOST' => 'smtp.sendgrid.net',
     'MAIL_PORT' => 587,
     'MAIL_ENCRYPTION' => 'tls',
-    'MAIL_USERNAME' => '02124819796aae',
-    'MAIL_PASSWORD' => '6f00ce06d59a06',
+    'MAIL_USERNAME' => '',
+    'MAIL_PASSWORD' => '',
     'MAIL_FROM_NAME' => "Feed Back",
     'MAIL_FROM_ADDRESS' => 'feedback@gmail.com',
 
